@@ -1,5 +1,7 @@
 # BotAi Discord | Con ChatGPT OpenAi
 
+![BotAI](imagen.png)
+
 Para ejecutar este código necesitas instalar python en tu ordenador.
 
 Primero debes instalar openai y discord.py,
